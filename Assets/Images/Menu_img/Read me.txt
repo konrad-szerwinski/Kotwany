@@ -1,0 +1,13 @@
+Poszczególne klatki.
+	
+	Menu_1 - 20%
+	Menu_2 - 30%
+	Menu_3 - 40%
+	.
+	.
+	.
+	Menu_9 - 100%
+
+Kolejnoœæ klatek animacji.
+
+	1,2,3,..,8,9,8,...,3,2,1.

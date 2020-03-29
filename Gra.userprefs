@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Gra.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BirdDogGames\PaperDoll\README - Core.txt">
+    <Files>
+      <File FileName="Assets\MainMenu.cs" Line="10" Column="25" />
+      <File FileName="Assets\BirdDogGames\PaperDoll\README - Core.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
